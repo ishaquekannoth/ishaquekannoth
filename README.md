@@ -19,7 +19,7 @@
 
 - 💬 Ask me about ** Java,Dart,Flutter,C++,C**
 
-- 📫 How to reach me ? **ishaque.kannoth@gmail.com**
+- 📫 Reach me on ? **ishaque.kannoth@gmail.com**
 
 - ⚡ Fun fact **: I come from Finance background**
 
