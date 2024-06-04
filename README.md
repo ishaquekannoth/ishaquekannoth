@@ -15,13 +15,13 @@
 
 - 🔭 I’m currently working on **Amala Earth - An e-commerce platform**
 
-- 🌱 I’m currently learning **,Android,ios,Node.js,Java Spring boot**
+- 🌱 I’m currently learning ** : Android,ios,Node.js,Java Spring boot**
 
-- 💬 Ask me about **Java,Dart,Flutter,C++,C**
+- 💬 Ask me about ** Java,Dart,Flutter,C++,C**
 
-- 📫 How to reach me **ishaque.kannoth@gmail.com**
+- 📫 How to reach me ? **ishaque.kannoth@gmail.com**
 
-- ⚡ Fun fact **I come from Finance background**
+- ⚡ Fun fact **: I come from Finance background**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
